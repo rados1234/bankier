@@ -14,6 +14,7 @@ public class App {
         welcomeScreen.registrationScreen();
         welcomeScreen.loginScreen();
         SubMenu.subMenu();
+        SubMenu.subMenu();
 
     }
 }
